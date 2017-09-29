@@ -1,3 +1,10 @@
+# TODO
+- Remove most of the contents of the README.
+- Add projects to project area. Likely chip8, twenty-six-puzzle, cydia, OpenGL-Tutorials??
+- Create animation when clicking on menu on mobile
+- Add icon to left side of nav bar
+- Change favicon
+
 # Dev Portfolio
 
 This repo contains an easy-to-customize personal dev portfolio template that was created with Sass and JavaScript. It is lightweight and fully responsive, as well as comes with the Bootstrap grid system and loaded with Font Awesome. The site is static and comes production ready if you just want to add your information and go. Alternatively, you can edit styles, colours, and scripts fairly easily. The site was built as modular as possible to make it easy to shift around styles and content.
